@@ -1,2 +1,6 @@
 # mygitrepository
+
 this is the first git repository of mine...
+
+this is my project...
+writen at localhost machine.
